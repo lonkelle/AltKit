@@ -11,8 +11,6 @@ import Network
 
 import UIKit
 
-@_exported import CAltKit
-
 public enum ConnectionError: LocalizedError
 {
     case serverNotFound
